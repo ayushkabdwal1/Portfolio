@@ -1,5 +1,8 @@
 # codsoft_portfolio
 #portfolio
+![portfolio](https://github.com/ayushkabdwal1/codsoft_portfolio/assets/139578995/6a2482d2-a698-4170-869d-e72e8c8d591c)
+
+![portfolio2](https://github.com/ayushkabdwal1/codsoft_portfolio/assets/139578995/7ade8ab1-3c50-4319-90d6-787c4b625846)
 
 Sure! Let's dive into the theory of building a portfolio website using HTML and CSS:
 
