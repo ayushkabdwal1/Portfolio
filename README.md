@@ -1,4 +1,4 @@
-# codsoft2 
+# codsoft_portfolio
 #portfolio
 
 Sure! Let's dive into the theory of building a portfolio website using HTML and CSS:
